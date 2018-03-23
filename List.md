@@ -1,5 +1,7 @@
 DATE|TOPIC|TORRENT|MAGNET
 ----|-----|-------|------
+2018.03.22 23:23 | [Microsoft Windows 10 Pro 17627.1000 rs5 Prerelease x86-x64 RU-RU BOX](http://emtrek.org/viewtopic.php?t=45957) | [3.92 GB](http://emtrek.org/download.php?id=46795) | magnet:?xt=urn:btih:4C5A5235CAFCA1942B8AFB9FE2444E7EDCFAA930
+2018.03.22 20:02 | [Microsoft Windows 10 Pro 17627.1000 rs5 Prerelease x86-x64 RU-RU PIP](http://emtrek.org/viewtopic.php?t=45956) | [3.45 GB](http://emtrek.org/download.php?id=46794) | magnet:?xt=urn:btih:49FA742B682DF3022BA94DA16BAE934E6D88FC16
 2018.03.22 12:47 | [Microsoft Windows 10 Pro 17627.1000 rs5 Prerelease x86-x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45947) | [3.16 GB](http://emtrek.org/download.php?id=46785) | magnet:?xt=urn:btih:003B708F8E58687881E765AAD733DA39A25398D2
 2018.03.21 18:06 | [Microsoft Windows Server 2018 DataCenter LTSC 17623.1002 x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45945) | [1.94 GB](http://emtrek.org/download.php?id=46783) | magnet:?xt=urn:btih:AD5B3DAF0F6BB1678F1786E4BF25AB730E9A9428
 2018.03.21 12:39 | [Microsoft Windows 10 1803 Pro 17127.1 rs4 release x86-x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45944) | [3.11 GB](http://emtrek.org/download.php?id=46782) | magnet:?xt=urn:btih:BDB7474A2462394F49E2489653609952126EC1EB
